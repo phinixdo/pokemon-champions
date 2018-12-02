@@ -4,9 +4,15 @@ Hello there! Welcome to my notebook of pokémon! My name is Phinix. People call 
 
 # to do
 [x] webscrape
+
 [x] initial analysis
+
 [x] base model
+
 [] join with other data
+
 [] validate model with precision-recall curve
+
 [] explain precision-recall curve and why it is better for imbalance classes
+
 [] use a couple class balance techniques
