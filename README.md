@@ -9,6 +9,8 @@ Hello there! Welcome to my notebook of pokémon! My name is Phinix. People call 
 
 [x] base model
 
+[] generate bokeh graphs
+
 [] join with other data
 
 [] validate model with precision-recall curve
